@@ -1,97 +1,122 @@
-# Hi, I'm Jeswin 👋
+# Hi 👋, I'm Jeswin
+
+### 🔋 Building the Future of Electric Vehicles with AI & Battery Technology
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=AI+Powered+Battery+Management+Systems;Electric+Vehicle+Enthusiast;IoT+Developer;Machine+Learning+Engineer;Patent+Holder;Open+to+Opportunities" />
+
+---
+
+## 🚀 About Me
 
 🎓 Information Technology Graduate
 
-🔋 Passionate about Electric Vehicles, Battery Technology, Artificial Intelligence, IoT, Android app Developement and Embedded Systems.
+🔋 Passionate about Battery Technology, Electric Vehicles, Artificial Intelligence and IoT
 
-## About Me
+🏆 Patent Holder
 
-* 🔬 Working on AI-Powered Smart Battery Management Systems for Electric Vehicles
-* 🚗 Interested in EV Battery Assembly, Battery Analytics, and Energy Storage Systems
-* 🤖 Experienced in Machine Learning, IoT, and Embedded Development
-* 🏆 Patent Holder
-* 🌱 Continuously learning Battery Technologies, AI, and Industrial Automation
+🔬 Currently working on:
 
-## Technical Skills
+* AI-Powered Smart Battery Management System for EVs
+* Battery State of Charge (SOC) Prediction
+* Battery State of Health (SOH) Analytics
+* Smart IoT Solutions
 
-### Programming Languages
+🌱 Exploring:
 
-* Java
-* Python
-* C++
-* SQL
+* EV Battery Manufacturing
+* Embedded AI
+* Battery Pack Design
+* Energy Storage Systems
 
-### Technologies & Tools
+---
 
-* ESP8266
-* ESP32
-* Arduino
-* Firebase
-* Flask
-* Git & GitHub
-* Machine Learning
-* IoT Development
+## 🛠️ Tech Stack
 
-## Featured Projects
+### Languages
 
-### 🔋 AI-Powered Smart Battery Management System for Electric Vehicles
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 
-* Real-time battery monitoring using ESP8266, INA219, and DHT11
-* AI-based SOC and SOH prediction using Random Forest
-* Anomaly detection using Isolation Forest
-* Real-time dashboard monitoring
+### IoT & Embedded
 
-### 🌱 AquaSense - Smart Irrigation System
+![ESP8266](https://img.shields.io/badge/ESP8266-red?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-blue?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
 
-* Automated irrigation using soil moisture sensing
-* Weather prediction integration
-* Remote monitoring and control
-* Water conservation through intelligent automation
+### Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+---
+
+## 🏆 Featured Projects
+
+### 🔋 AI-Powered Smart Battery Management System
+
+* SOC Prediction using Random Forest
+* SOH Estimation
+* Battery Anomaly Detection
+* ESP8266 + INA219 + DHT11
+
+### 🌱 AquaSense
+
+Smart Irrigation System with Weather Intelligence and IoT Automation.
 
 ### 🛒 Campus Cart
 
-* Campus-based marketplace and service platform
-* Buy, sell, and service booking features
-* User authentication and profile management
-* Chat and booking functionality
+Campus Marketplace & Service Booking Platform.
 
-### 🔧 Quick-Fix
+### 🔧 Quick Fix
 
-* On-demand service booking application
-* Connects users with local professionals
-* Booking management and communication system
+On-Demand Home Service Application.
 
 ### 🏥 DocAtDoor
 
-* Healthcare appointment and home-visit platform
-* Patient-doctor connectivity
-* Remote consultation support
+Healthcare Appointment & Home Visit Platform.
 
-## Patent & Research
+---
 
-🏆 Patent Holder in the field of Battery Technology and Smart Energy Systems.
+## 📈 GitHub Statistics
 
-## GitHub Goals
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeswin2408\&show_icons=true)
 
-* Open Source Contributions
-* EV Battery Innovation
-* AI Research
-* IoT Product Development
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeswin2408\&layout=compact)
 
-## Contact Information
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeswin2408)
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities in:
+
+🔋 Battery Technology
+
+🚗 Electric Vehicles
+
+🤖 Artificial Intelligence
+
+⚡ Energy Storage Systems
+
+🌐 Internet of Things
+
+---
+
+## 📫 Contact Me
 
 📧 Email: [jeswin2425@gmail.com](mailto:jeswin2425@gmail.com)
 
 📱 Mobile: +91 6379789491
 
-## Connect With Me
+---
 
-Feel free to connect for opportunities related to:
+### 💡 Favourite Quote
 
-* Battery Technology
-* Electric Vehicles
-* IoT Development
-* Artificial Intelligence
-* Embedded Systems
+"Technology is best when it brings sustainable innovation to the world."
 
-⭐ Thank you for visiting my GitHub profile!
+---
+
+⭐ If you like my work, don't forget to star my repositories!
