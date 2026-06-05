@@ -1,122 +1,77 @@
-# Hi 👋, I'm Jeswin
-
-### 🔋 Building the Future of Electric Vehicles with AI & Battery Technology
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=AI+Powered+Battery+Management+Systems;Electric+Vehicle+Enthusiast;IoT+Developer;Machine+Learning+Engineer;Patent+Holder;Open+to+Opportunities" />
-
----
-
 ## 🚀 About Me
 
 🎓 Information Technology Graduate
 
-🔋 Passionate about Battery Technology, Electric Vehicles, Artificial Intelligence and IoT
+📱 Android App Developer
+
+🔋 EV Battery Technology Enthusiast
+
+🤖 AI & Machine Learning Developer
+
+🌐 IoT Solution Builder
 
 🏆 Patent Holder
 
-🔬 Currently working on:
+I enjoy building intelligent mobile applications, IoT systems, and AI-powered solutions that solve real-world problems.
 
-* AI-Powered Smart Battery Management System for EVs
-* Battery State of Charge (SOC) Prediction
-* Battery State of Health (SOH) Analytics
-* Smart IoT Solutions
+---
 
-🌱 Exploring:
+## 💼 Professional Interests
 
-* EV Battery Manufacturing
-* Embedded AI
-* Battery Pack Design
-* Energy Storage Systems
+📱 Android Application Development
+
+🔋 Battery Management Systems (BMS)
+
+🚗 Electric Vehicles (EV)
+
+🤖 Artificial Intelligence & Machine Learning
+
+🌐 Internet of Things (IoT)
+
+☁️ Firebase & Cloud Integration
+
+⚡ Energy Storage Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Mobile App Development
+
+![Android](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-
-### IoT & Embedded
-
-![ESP8266](https://img.shields.io/badge/ESP8266-red?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-blue?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
-
-### Tools
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔋 AI-Powered Smart Battery Management System
-
-* SOC Prediction using Random Forest
-* SOH Estimation
-* Battery Anomaly Detection
-* ESP8266 + INA219 + DHT11
-
-### 🌱 AquaSense
-
-Smart Irrigation System with Weather Intelligence and IoT Automation.
+## 📱 Android Applications
 
 ### 🛒 Campus Cart
 
-Campus Marketplace & Service Booking Platform.
+Campus marketplace and service booking application developed using Android Studio and Firebase.
 
 ### 🔧 Quick Fix
 
-On-Demand Home Service Application.
+On-demand home service platform connecting users with skilled professionals.
 
 ### 🏥 DocAtDoor
 
-Healthcare Appointment & Home Visit Platform.
+Healthcare mobile application for appointments, home visits, and remote consultations.
 
 ---
 
-## 📈 GitHub Statistics
+## 🎯 Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeswin2408\&show_icons=true)
+📱 Building Scalable Android Applications
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeswin2408\&layout=compact)
+🔋 AI-Powered Battery Management Systems
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeswin2408)
+🚗 EV Technology & Battery Analytics
 
----
+🤖 Machine Learning Applications
 
-## 🎯 Career Objective
-
-Seeking opportunities in:
-
-🔋 Battery Technology
-
-🚗 Electric Vehicles
-
-🤖 Artificial Intelligence
-
-⚡ Energy Storage Systems
-
-🌐 Internet of Things
-
----
-
-## 📫 Contact Me
-
-📧 Email: [jeswin2425@gmail.com](mailto:jeswin2425@gmail.com)
-
-📱 Mobile: +91 6379789491
-
----
-
-### 💡 Favourite Quote
-
-"Technology is best when it brings sustainable innovation to the world."
-
----
-
-⭐ If you like my work, don't forget to star my repositories!
+🌐 Smart IoT Solutions
