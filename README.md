@@ -2,7 +2,7 @@
 
 🎓 Information Technology Graduate
 
-🔋 Passionate about Electric Vehicles, Battery Technology, Artificial Intelligence, IoT, and Embedded Systems.
+🔋 Passionate about Electric Vehicles, Battery Technology, Artificial Intelligence, IoT, Android app Developement and Embedded Systems.
 
 ## About Me
 
